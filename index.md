@@ -11,3 +11,19 @@ Crypto V0.2 is written in python 2.7. We developped Crypto so that it can run on
 
 As a Math and computer Science student at the faculty of science of Tunis. I created a Program that will summarize and use all what we learned through the semester using python language.
 CandyMath was a simple idea that can combine Mathematics and computer science. I used different modules like maths algorithms, file manipulation and graphs drawing in this Project. What pushed me more to create this program is it's ability to be developed into machine learning and have better chances to solve different maths equations. Not only pre-programmed ones.
+
+## [LinuxVisualProgramHelp](https://github.com/cybereagle2001/LinuxVisualProgramHelp)
+
+This is a visual guide that will allow users to use less Linux commands in order to make linux users life easier.
+
+## [STIA](https://github.com/Secret-Tunisian-Information-Agency/STIA)
+
+From Now no need to remember all the commands to achieve your hacking goals. No need to remember all the flags and combinations for successful brute-forcing or password cracking tasks. All that you have to do is to choose the tool from the STIA menu give the script the IP of the target the wordlist you want to use and it will do the hard part. STIA script was just a simple coding exercise but now it's a whole project that I want to develop in order to create something that can turn any Linux distro into a hacking beast. Now STIA script runs on Linux and windows. For the best compatibility you should run it on Kali Linux or parrot OS soon you will no longer need to use these distros.
+
+## [TNSCANNER](https://github.com/cybereagle2001/TNSCANNER)
+
+This script is made for Script Kiddie and those who are getting starting in the world of cyber security (not really efficient in advanced scenario I will work on it to upgrade it)
+
+## [math_solver](https://github.com/cybereagle2001/math_solver)
+
+math_solver is made to find equation solutions. For this early version I created only first and second degree real solution in the futur I will add other option and I will include imaginary solutions.
