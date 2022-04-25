@@ -30,5 +30,4 @@ math_solver is made to find equation solutions. For this early version I created
 
 [go back](https://cybereagle2001.github.io/Oussama-Ben-Hadj-Dahman/)
 
-
-                                                      ALL RIGHT RESERVED @cybereagle2001
+                                               ALL RIGHT RESERVED @cybereagle2001 
