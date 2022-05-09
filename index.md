@@ -1,5 +1,12 @@
 # Projects 
 
+## [cybereagle2001_wordlist](https://github.com/cybereagle2001/wordlist)
+
+When it comes to password cracking, the Tunisian pentesters are in lack of tools because of the mother tongue of our country. That's why I decided to create this project where you will find the tunisian possible passswords.<br>
+*cybereagle2001_wordlist <br>
+In this wordlist I am trying to gather all possible passwords that the tunisians can use. <br>
+*cybereagle2001_airboxpass.list.7z <br>
+This is a special wordlist created for Airbox. The majority of people are not changing the default passwords. So using this wordlist you can crack all the airobox passwords with a rate of success equal to 90%.
 ## [Crypto](https://github.com/cybereagle2001/Crypto) 
 
 this script is created by cybereagle2001, oussama ben hadj dahman, developped by cybereagle2001 and Oussema Aloui.
