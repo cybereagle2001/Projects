@@ -35,6 +35,6 @@ This script is made for Script Kiddie and those who are getting starting in the 
 
 math_solver is made to find equation solutions. For this early version I created only first and second degree real solution in the futur I will add other option and I will include imaginary solutions.
 
-[go back](https://cybereagle2001.github.io/Oussama-Ben-Hadj-Dahman/)
+[go back](https://cybereagle2001.github.io/Blog/CV)
 
                                                ALL RIGHT RESERVED @cybereagle2001 
